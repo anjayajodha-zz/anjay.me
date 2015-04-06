@@ -81,10 +81,55 @@
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
-			    		<h2 class="title"><span>Download My Resume</span></h2>
+			    		<h2 class="title"><span>Contact Information</span></h2>
 			    	</div>
-
-			    	<a href="https://anjay.me/resume.pdf" class="btn btn-primary">Learn More</a>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Education</span></h2>
+			    	</div>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Honors & Awards</span></h2>
+			    	</div>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Professional Accomplishments</span></h2>
+			    	</div>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Skills</span></h2>
+			    	</div>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Extracurricular Activities</span></h2>
+			    	</div>
+	  			</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Download a Copy</span></h2>
+			    	</div>
 	  			</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
