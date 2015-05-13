@@ -172,9 +172,12 @@ jQuery(function($) {
 
           if($('.percentage').length){
           $('.percentage').easyPieChart({
+            barColor: function (percent) {
+                return (percent < 35 ? '#5cb85c' : percent < 85 ? '#f0ad4e' : '#cb3935');
+                },
             animate: 5000,
             onStep: function(value) {
-            //this.$el.find('span').text(~~value);
+            this.$el.find('span').text(~~value);
             }
             });
           }
