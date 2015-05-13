@@ -87,7 +87,7 @@
 
 		        <div class="skills wow fadeInUp">
 		          <div class="col-md-3">
-		            <div class="percentage easyPieChart" data-percent="50" data-delay="100"><span></span><canvas width="165" height="165"></canvas></div>
+		            <div class="percentage easyPieChart" data-percent="50" data-delay="100"><canvas width="165" height="165"></canvas></div>
 		            <small>C#</small> </div>
 		          <div class="col-md-3">
 		            <div class="percentage easyPieChart" data-percent="55"><span>55</span>%<canvas width="165" height="165"></canvas></div>
