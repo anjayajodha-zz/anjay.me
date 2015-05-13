@@ -91,6 +91,19 @@
 		  			<div class='text-center'>
 			    		<h2 class="title"><span>Education</span></h2>
 			    	</div>
+					<div class="col-md-6 wow slideInLeft">
+					<h4>University of Houston:</h4>
+					<ul class="circle">
+						<li>Bachelor of Science in Computer Science
+						</li>
+						<li>Minors in Leadership Studies and Mathematics
+						</li>
+						<li>Expected Graduation Date: May 2015
+						</li>
+					</ul>
+				</div>
+				<div class="col-md-6 wow">
+	  			</div>
 	  			</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
