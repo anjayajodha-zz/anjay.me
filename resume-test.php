@@ -103,8 +103,6 @@
 						</li>
 					</ul>
 				</div>
-				<div class="col-md-6 wow">
-	  			</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 			<div class="row">
@@ -119,12 +117,8 @@
 						</li>
 						<li>University of Houston Dean's List
 						</li>
-						<li>Expected Graduation Date: May 2015
-						</li>
 					</ul>
 				</div>
-				<div class="col-md-6 wow">
-	  			</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 			<div class="row">
@@ -141,6 +135,15 @@
 			    		<h2 class="title"><span>Skills</span></h2>
 			    	</div>
 	  			</div>
+				<div class="col-md-6 wow slideInLeft">
+					<strong>Microsoft Corporation</strong> <p>(Program Manager Intern, System Center) Redmond, WA</p> <strong style="text-alight:right">May 2014-August 2014</strong>
+					<ul class="circle">
+						
+						<li>Developed surveys to discover customer issues, created a product to ease customer difficulties, and
+performed usability tests with resulting product.
+						</li>
+					</ul>
+				</div>
 			</div><!--/ Skills row end -->
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
