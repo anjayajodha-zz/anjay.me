@@ -127,15 +127,7 @@
 			    		<h2 class="title"><span>Professional Accomplishments</span></h2>
 			    	</div>
 	  			</div>
-			</div><!--/ Skills row end -->
-			<div class="gap-40"></div>
-			<div class="row">
-				<div class="col-md-12 wow bounceIn">
-		  			<div class='text-center'>
-			    		<h2 class="title"><span>Skills</span></h2>
-			    	</div>
-	  			</div>
-				<div class="col-md-6 wow slideInLeft">
+				  <div class="col-md-12 wow slideInLeft">
 					<strong>Microsoft Corporation</strong> <p>(Program Manager Intern, System Center) Redmond, WA</p> <strong style="text-alight:right">May 2014-August 2014</strong>
 					<ul class="circle">
 						
@@ -144,6 +136,15 @@ performed usability tests with resulting product.
 						</li>
 					</ul>
 				</div>
+			</div><!--/ Skills row end -->
+			<div class="gap-40"></div>
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Skills</span></h2>
+			    	</div>
+	  			</div>
+				
 			</div><!--/ Skills row end -->
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
