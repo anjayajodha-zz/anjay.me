@@ -87,17 +87,17 @@
 
 		        <div class="skills wow fadeInUp">
 		          <div class="col-md-3">
-		            <div class="percentage easyPieChart" data-percent="50" data-delay="100"><span>Proficient</span><canvas width="165" height="165"></canvas></div>
+		            <div class="percentage easyPieChart" data-percent="50" data-delay="100"><span>50</span><span>%</span><canvas width="165" height="165"></canvas></div>
 		            <small>C#</small> </div>
 		          <div class="col-md-3">
 		            <div class="percentage easyPieChart" data-percent="55"><span>55</span>%<canvas width="165" height="165"></canvas></div>
 		            <small>C++</small> </div>
 		          <div class="col-md-3">
-		            <div class="percentage easyPieChart" data-percent="60"><span>75</span>%<canvas width="165" height="165"></canvas></div>
-		            <small>Java</small> </div>
+		            <div class="percentage easyPieChart" data-percent="75"><span>75</span>%<canvas width="165" height="165"></canvas></div>
+		            <small>Java Basics</small> </div>
 		          <div class="col-md-3">
-		            <div class="percentage easyPieChart" data-percent="25"><span>65</span>%<canvas width="165" height="165"></canvas></div>
-		            <small>Matlab</small> </div>
+		            <div class="percentage easyPieChart" data-percent="65"><span>65</span>%<canvas width="165" height="165"></canvas></div>
+		            <small>Matlab Basics</small> </div>
 		        </div>
 
 			</div><!--/ Skills row end -->
@@ -111,13 +111,13 @@
 
 				<div class="skills wow fadeInUp">
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="65" data-delay="100"><span>85</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="65" data-delay="100"><span>65</span>%<canvas width="165" height="165"></canvas></div>
 						<small>HTML</small> </div>
 					<div class="col-md-3">
 						<div class="percentage easyPieChart" data-percent="75"><span>55</span>%<canvas width="165" height="165"></canvas></div>
 						<small>PHP</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="60"><span>75</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="45"><span>45</span>%<canvas width="165" height="165"></canvas></div>
 						<small>JavaScript</small> </div>
 					<div class="col-md-3">
 						<div class="percentage easyPieChart" data-percent="85"><span>65</span>%<canvas width="165" height="165"></canvas></div>
@@ -135,16 +135,16 @@
 
 				<div class="skills wow fadeInUp">
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="45" data-delay="100"><span>85</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="45" data-delay="100"><span>45</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Server 2012</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="35"><span>55</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="35"><span>35</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Active Directory</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="60"><span>75</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="60"><span>60</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Exchange API</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="90"><span>65</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="90"><span>90</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Windows Automation Framework</small> </div>
 				</div>
 
@@ -159,13 +159,13 @@
 
 				<div class="skills wow fadeInUp">
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="50" data-delay="100"><span>85</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="50" data-delay="100"><span>50</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Virtualization</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="25"><span>55</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="25"><span>25</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Unix/Linux Shell</small> </div>
 					<div class="col-md-3">
-						<div class="percentage easyPieChart" data-percent="85"><span>75</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="85"><span>85</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Mac OS X Administration</small> </div>
 					<div class="col-md-3">
 						<div class="percentage easyPieChart" data-percent="15"><span>15</span>%<canvas width="165" height="165"></canvas></div>
@@ -183,10 +183,10 @@
 
 				<div class="skills wow fadeInUp">
 					<div class="col-md-6">
-						<div class="percentage easyPieChart" data-percent="75" data-delay="100"><span>85</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="75" data-delay="100"><span>75</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Customer Service</small> </div>
 					<div class="col-md-6">
-						<div class="percentage easyPieChart" data-percent="70"><span>55</span>%<canvas width="165" height="165"></canvas></div>
+						<div class="percentage easyPieChart" data-percent="70"><span>70</span>%<canvas width="165" height="165"></canvas></div>
 						<small>Public Speaking</small> </div>
 				</div>
 
