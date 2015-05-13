@@ -136,6 +136,33 @@ performed usability tests with resulting product.
 						</li>
 					</ul>
 				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>3Dent Technology</strong> <p>(Engineering Analyst, C# Developer) Houston, TX</p> <strong style="text-alight:right">May 2013-August 2013</strong>
+					<ul class="circle">
+						
+						<li>Developed custom software in C# using the Windows Automation Framework to automate testing of oil
+rig designs.
+						</li>
+					</ul>
+				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>The Honors College</strong> <p>(System Administrator, IT Team Lead) Houston, TX</p> <strong style="text-alight:right">January 2012 -Present</strong>
+					<ul class="circle">
+						
+						<li>Automated email processing using the Microsoft Exchange Managed API.
+						</li>
+						<li>Managed six IT staff members.
+							</li>
+					</ul>
+				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>University of Houston-Downtown</strong> <p> (C++ Teacher and Camp Coordinator) Houston, TX</p> <strong style="text-alight:right">Summer 2012</strong>
+					<ul class="circle">
+						
+						<li>Taught C++ and C# to high school students, and automated school processes.
+						</li>
+					</ul>
+				</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 			<div class="row">
