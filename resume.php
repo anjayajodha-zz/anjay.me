@@ -78,14 +78,141 @@
 	<!-- About page start -->
 	<section id="about-page">
 		<div class="container">
+			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
-			    		<h2 class="title"><span>Download My Resume</span></h2>
+			    		<h2 class="title"><span>Education</span></h2>
 			    	</div>
-
-			    	<a href="https://anjay.me/resume.pdf" class="btn btn-primary">Learn More</a>
+				</div>
+				<div class="col-md-6 wow slideInLeft">
+					<h4>University of Houston:</h4>
+					<ul class="circle">
+						<li>Bachelor of Science in Computer Science
+						</li>
+						<li>Minors in Leadership Studies and Mathematics
+						</li>
+						<li>Expected Graduation Date: May 2015
+						</li>
+					</ul>
+				</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Honors & Awards</span></h2>
+			    	</div>
 	  			</div>
+				  <div class="col-md-6 wow slideInLeft">
+					<ul class="circle">
+						<li>University of Houston National Merit Scholar
+						</li>
+						<li>University of Houston Dean's List
+						</li>
+					</ul>
+				</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Professional Accomplishments</span></h2>
+			    	</div>
+	  			</div>
+				  <div class="col-md-12 wow slideInLeft">
+					<strong>Microsoft Corporation</strong> <p>(Program Manager Intern, System Center) Redmond, WA</p> <p style="text-align: right">May 2014-August 2014</p>
+					<ul class="circle">
+						
+						<li>Developed surveys to discover customer issues, created a product to ease customer difficulties, and
+performed usability tests with resulting product.
+						</li>
+					</ul>
+				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>3Dent Technology</strong> <p>(Engineering Analyst, C# Developer) Houston, TX</p> <p style="text-align: right">May 2013-August 2013</p>
+					<ul class="circle">
+						
+						<li>Developed custom software in C# using the Windows Automation Framework to automate testing of oil
+rig designs.
+						</li>
+					</ul>
+				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>The Honors College</strong> <p>(System Administrator, IT Team Lead) Houston, TX</p> <p style="text-align: right">January 2012 -Present</p>
+					<ul class="circle">
+						
+						<li>Automated email processing using the Microsoft Exchange Managed API.
+						</li>
+						<li>Managed six IT staff members.
+							</li>
+					</ul>
+				</div>
+				 <div class="col-md-12 wow slideInLeft">
+					<strong>University of Houston-Downtown</strong> <p> (C++ Teacher and Camp Coordinator) Houston, TX</p> <p style="text-align: right">Summer 2012</p>
+					<ul class="circle">
+						
+						<li>Taught C++ and C# to high school students, and automated school processes.
+						</li>
+					</ul>
+				</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Skills</span></h2>
+			    	</div>
+	  			</div>
+				<div class="col-md-6 wow slideInLeft">
+					<ul class="circle">
+						<li>Java, C#, and C++ programming languages
+						</li>
+						<li>MATLAB Programming – Experience with
+the Image Acquisition Toolbox
+						</li>
+						<li>National Instruments LabVIEW</li>
+					</ul>
+				</div>
+				<div class="col-md-6 wow slideInRight">
+					<ul class="circle">
+						<li>HTML, PHP, JavaScript, SQL
+						</li>
+						<li>Microsoft Exchange Managed API
+						</li>
+						<li>Windows Server 2012, Active Directory</li>
+						<li>Windows Automation Framework</li>
+					</ul>
+				</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Extracurricular Activities</span></h2>
+			    	</div>
+	  			</div>
+				  <div class="col-md-12 wow slideInLeft">
+					<ul class="circle">
+						
+						<li> Treasurer, Honors College Student Governing Board
+						</li>
+						<li>Delegate, University of Houston Model Arab League
+							</li>
+						<li>Honors College Ambassador
+							</li>
+						<li> Freshman Mentor, Honors College Mentorship Program
+							</li>
+						<li>Eagle Scout, Boy Scouts of America 
+							</li>
+					</ul>
+				</div>
+			</div><!--/ Skills row end -->
+			<div class="row">
+				<div class="col-md-12 wow bounceIn">
+		  			<div class='text-center'>
+			    		<h2 class="title"><span>Download a Copy</span></h2>
+			    	</div>
+	  			</div>
+				  <div class="text-center">
+<a href="https://anjay.me/resume.pdf" class="btn btn-primary">View PDF</a>
+	</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 		</div><!--/ container end -->
