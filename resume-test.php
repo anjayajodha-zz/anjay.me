@@ -114,11 +114,10 @@
 			    	</div>
 	  			</div>
 				  <div class="col-md-6 wow slideInLeft">
-					<h4>University of Houston:</h4>
 					<ul class="circle">
-						<li>Bachelor of Science in Computer Science
+						<li>University of Houston National Merit Scholar
 						</li>
-						<li>Minors in Leadership Studies and Mathematics
+						<li>University of Houston Dean's List
 						</li>
 						<li>Expected Graduation Date: May 2015
 						</li>
