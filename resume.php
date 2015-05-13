@@ -78,7 +78,6 @@
 	<!-- About page start -->
 	<section id="about-page">
 		<div class="container">
-			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
