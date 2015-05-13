@@ -174,7 +174,7 @@ jQuery(function($) {
           $('.percentage').easyPieChart({
             animate: 5000,
             onStep: function(value) {
-            this.$el.find('span').text(~~value);
+            //this.$el.find('span').text(~~value);
             }
             });
           }
