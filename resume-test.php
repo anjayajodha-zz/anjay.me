@@ -198,6 +198,23 @@ the Image Acquisition Toolbox
 			    		<h2 class="title"><span>Extracurricular Activities</span></h2>
 			    	</div>
 	  			</div>
+				  <div class="col-md-12 wow slideInLeft">
+					<ul class="circle">
+						
+						<li> Treasurer, Honors College Student Governing Board
+						</li>
+						<li>Delegate, University of Houston Model Arab League
+							</li>
+						<li>Honors College Ambassador
+							</li>
+						<li> Freshman Mentor, Honors College Mentorship Program
+							</li>
+						<li>Eagle Scout, Boy Scouts of America 
+							</li>
+						
+							
+					</ul>
+				</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 			<div class="row">
