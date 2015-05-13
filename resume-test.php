@@ -210,7 +210,9 @@ the Image Acquisition Toolbox
 			    		<h2 class="title"><span>Download a Copy</span></h2>
 			    	</div>
 	  			</div>
+				  <div class="text-center">
 <a href="https://anjay.me/resume.pdf" class="btn btn-primary">View PDF</a>
+	</div>
 			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 		</div><!--/ container end -->
