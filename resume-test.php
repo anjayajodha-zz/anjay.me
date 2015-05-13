@@ -78,13 +78,6 @@
 	<!-- About page start -->
 	<section id="about-page">
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12 wow bounceIn">
-		  			<div class='text-center'>
-			    		<h2 class="title"><span>Contact Information</span></h2>
-			    	</div>
-	  			</div>
-			</div><!--/ Skills row end -->
 			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
@@ -104,7 +97,6 @@
 					</ul>
 				</div>
 			</div><!--/ Skills row end -->
-			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
@@ -120,7 +112,6 @@
 					</ul>
 				</div>
 			</div><!--/ Skills row end -->
-			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
@@ -164,7 +155,6 @@ rig designs.
 					</ul>
 				</div>
 			</div><!--/ Skills row end -->
-			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
@@ -211,12 +201,9 @@ the Image Acquisition Toolbox
 							</li>
 						<li>Eagle Scout, Boy Scouts of America 
 							</li>
-						
-							
 					</ul>
 				</div>
 			</div><!--/ Skills row end -->
-			<div class="gap-40"></div>
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
 		  			<div class='text-center'>
