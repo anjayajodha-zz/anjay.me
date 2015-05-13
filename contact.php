@@ -78,11 +78,6 @@
 	<section id="Contact-page">
 		<div class="container">
 			<div class="row">
-
-				<!-- Map start here -->
-				<div class="map" id="map"></div>
-				<!-- Map end here -->
-
 				<!-- Contact form start -->
 				<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
 					<div class="contact-form">
