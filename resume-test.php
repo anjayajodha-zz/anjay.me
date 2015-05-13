@@ -128,7 +128,7 @@
 			    	</div>
 	  			</div>
 				  <div class="col-md-12 wow slideInLeft">
-					<strong>Microsoft Corporation</strong> <p>(Program Manager Intern, System Center) Redmond, WA</p> <strong style="text-alight:right">May 2014-August 2014</strong>
+					<strong>Microsoft Corporation</strong> <p>(Program Manager Intern, System Center) Redmond, WA</p> <strong style="text-align:right">May 2014-August 2014</strong>
 					<ul class="circle">
 						
 						<li>Developed surveys to discover customer issues, created a product to ease customer difficulties, and
@@ -137,7 +137,7 @@ performed usability tests with resulting product.
 					</ul>
 				</div>
 				 <div class="col-md-12 wow slideInLeft">
-					<strong>3Dent Technology</strong> <p>(Engineering Analyst, C# Developer) Houston, TX</p> <strong style="text-alight:right">May 2013-August 2013</strong>
+					<strong>3Dent Technology</strong> <p>(Engineering Analyst, C# Developer) Houston, TX</p> <strong style="text-align:right">May 2013-August 2013</strong>
 					<ul class="circle">
 						
 						<li>Developed custom software in C# using the Windows Automation Framework to automate testing of oil
@@ -146,7 +146,7 @@ rig designs.
 					</ul>
 				</div>
 				 <div class="col-md-12 wow slideInLeft">
-					<strong>The Honors College</strong> <p>(System Administrator, IT Team Lead) Houston, TX</p> <strong style="text-alight:right">January 2012 -Present</strong>
+					<strong>The Honors College</strong> <p>(System Administrator, IT Team Lead) Houston, TX</p> <strong style="text-align:right">January 2012 -Present</strong>
 					<ul class="circle">
 						
 						<li>Automated email processing using the Microsoft Exchange Managed API.
@@ -156,7 +156,7 @@ rig designs.
 					</ul>
 				</div>
 				 <div class="col-md-12 wow slideInLeft">
-					<strong>University of Houston-Downtown</strong> <p> (C++ Teacher and Camp Coordinator) Houston, TX</p> <strong style="text-alight:right">Summer 2012</strong>
+					<strong>University of Houston-Downtown</strong> <p> (C++ Teacher and Camp Coordinator) Houston, TX</p> <strong style="text-align:right">Summer 2012</strong>
 					<ul class="circle">
 						
 						<li>Taught C++ and C# to high school students, and automated school processes.
@@ -171,7 +171,26 @@ rig designs.
 			    		<h2 class="title"><span>Skills</span></h2>
 			    	</div>
 	  			</div>
-				
+				<div class="col-md-6 wow slideInLeft">
+					<ul class="circle">
+						<li>Java, C#, and C++ programming languages
+						</li>
+						<li>MATLAB Programming – Experience with
+the Image Acquisition Toolbox
+						</li>
+						<li>National Instruments LabVIEW</li>
+					</ul>
+				</div>
+				<div class="col-md-6 wow slideInRight">
+					<ul class="circle">
+						<li>HTML, PHP, JavaScript, SQL
+						</li>
+						<li>Microsoft Exchange Managed API
+						</li>
+						<li>Windows Server 2012, Active Directory</li>
+						<li>Windows Automation Framework</li>
+					</ul>
+				</div>
 			</div><!--/ Skills row end -->
 			<div class="row">
 				<div class="col-md-12 wow bounceIn">
