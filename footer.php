@@ -1,4 +1,5 @@
 <?php
+$current_year = date("Y");
 echo '<!-- Main Footer start -->
 	<section id="footer-wrapper">
 		<!-- Footer top start -->
@@ -22,7 +23,7 @@ echo '<!-- Main Footer start -->
 					</div>
 					<div class="col-md-5 wow fadeInRight">
 						<div class="copyright-info">
-	         			 &copy; Copyright 2017 anjay.me.
+	         			 &copy; Copyright 2014-{$current_year} anjay.me.
 	        			</div>
 					</div>
 				</div><!-- Row end -->
