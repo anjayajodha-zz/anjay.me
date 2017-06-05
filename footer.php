@@ -22,7 +22,7 @@ echo '<!-- Main Footer start -->
 					</div>
 					<div class="col-md-5 wow fadeInRight">
 						<div class="copyright-info">
-	         			 &copy; Copyright 2014 anjay.me.
+	         			 &copy; Copyright 2017 anjay.me.
 	        			</div>
 					</div>
 				</div><!-- Row end -->
